@@ -1,7 +1,7 @@
 # Dio-Crypto-Wallet
 
 ## Objetivo
-Criar um projeto onde criamos e utilizamos uma Carteira de Criptomoedas.
+Desenvolver um projeto que cria uma Carteira de Criptomoedas.
 
 ## Como Funciona na Prática
 O usuária terá que rodar o programa em um terminal. Ao rodar, o programa vai criar os seguintes dados:
